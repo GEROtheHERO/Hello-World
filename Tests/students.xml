@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<list>
+<hola/>
+<students id = "fuk you xml">
+	<student id="0" hola="lelo">
+		<firstname>Gero</firstname>
+		<lastname>zanchi</lastname>
+	</student>
+	
+	<student id="1" hola="lela">
+		<firstname>Geemo</firstname>
+		<lastname>jodete</lastname>
+	</student>
+	
+	<student id="2" hola="lele">
+		<firstname>Gerol2</firstname>
+		<lastname>fukyou</lastname>
+	</student>
+	
+	<student id="3" hola="lelu">
+		<firstname>GEROtheHERO</firstname>
+		<lastname>Wouldn't mind dying</lastname>
+	</student>
+</students>
+</list>
