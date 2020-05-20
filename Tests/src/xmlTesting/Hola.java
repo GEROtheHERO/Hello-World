@@ -1,5 +1,5 @@
 package xmlTesting;
-
+//hola
 public class Hola extends Hola2{
 	public Hola()
 	{
